@@ -1,12 +1,12 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-import Header from "../../b-i-a-main/src/components/Header";
-import Footer from "../../b-i-a-main/src/components/Footer";
-import HomePage from "../../b-i-a-main/src/components/Homepage";
-import AboutPage from "../../b-i-a-main/src/components/AboutPage";
-import IndustryPage from "../../b-i-a-main/src/components/IndustryPage";
-import ServicesPage from "../../b-i-a-main/src/components/ServicesPage";
-import ContactPage from "../../b-i-a-main/src/components/ContactPage";
+import Header from "./components/Header"
+import Footer from "./components/Footer";
+import HomePage from "./components/Homepage";
+import AboutPage from "./components/AboutPage";
+import IndustryPage from "./components/IndustryPage";
+import ServicesPage from "./components/ServicesPage";
+import ContactPage from "./components/ContactPage";
 import "./App.css";
 
 

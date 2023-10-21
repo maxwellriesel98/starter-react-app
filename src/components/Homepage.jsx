@@ -22,10 +22,9 @@ function HomePage() {
         ImageRight={
           <img
             src={crest}
-            className="imageBorder d-block mx-lg-auto img-fluid"
+            className="imageBorder"
             alt="Baron Family Crest"
-            width="300"
-            height="400"
+            height="300"
             loading="lazy"
           ></img>
         }

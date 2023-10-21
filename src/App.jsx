@@ -7,6 +7,7 @@ import AboutPage from "./components/AboutPage";
 import IndustryPage from "./components/IndustryPage";
 import ServicesPage from "./components/ServicesPage";
 import ContactPage from "./components/ContactPage";
+import SentPage from "./components/SentPage";
 import "./App.css";
 
 
@@ -20,8 +21,8 @@ function App() {
         <Route path="/industrylinks" element={<IndustryPage/>} />
         <Route path="/services" element={<ServicesPage/>} />
         <Route path="/contact" element={<ContactPage/>} />
-        <Route path="/success" element={<h1>Message Sent!</h1>}/>
-        <Route path="/failure" element={<h1>Message Failed to Send. We apologize, contact us instead at.....</h1>}/>
+        <Route path="/success" element={<SentPage title="Message Sent!" message="We will get back to you shortly! have a great day!"/>}/>
+        <Route path="/failure" element={<SentPage title="Failed to Send..." message="We apologize for the inconvenience, Please call us or email us instead, details under  ''Contact us'' "/>}/>
       </Routes>
       <Footer />
     </div>

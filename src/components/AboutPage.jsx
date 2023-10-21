@@ -28,9 +28,9 @@ function AboutPage() {
           <iframe
             title="Baron Insurance Map Location"
             id="map_frame"
-            className="imageBorder d-block mx-lg-auto "
-            width="500"
-            height="500"
+            className="imageBorder d-block mx-lg-auto"
+            width="300"
+            height="300"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2926.807398219928!2d-75.32495376753432!3d42.81355594768283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89dbe0687c745049%3A0x8be65caaf48926f9!2s1874%20Gorton%20Lake%20Rd%2C%20West%20Edmeston%2C%20NY%2013485!5e0!3m2!1sen!2sus!4v1670866556895!5m2!1sen!2sus"
           ></iframe>
         }

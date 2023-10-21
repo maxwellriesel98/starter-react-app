@@ -53,6 +53,7 @@ function ContactPage() {
               id="inputEmail"
               name="inputEmail"
               placeholder="Email"
+              required
             ></input>
           </div>
           <div className="col-md-6 my-0">
@@ -62,6 +63,7 @@ function ContactPage() {
               id="inputName"
               name="inputName"
               placeholder="Full Name"
+              required
             ></input>
           </div>
           <div className="col-12 my-0">
@@ -71,6 +73,7 @@ function ContactPage() {
               id="inputPhone"
               name="inputPhone"
               placeholder="Phone Number"
+              required
             ></input>
           </div>
           <div className="col-12 my-0">
@@ -81,6 +84,7 @@ function ContactPage() {
               id="inputMessage"
               name="inputMessage"
               placeholder="Input message here (DO NOT ADD ANY SENSITIVE INFORMATION)"
+              required
             ></textarea>
           </div>
 

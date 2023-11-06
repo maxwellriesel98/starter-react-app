@@ -28,60 +28,30 @@ function HomePage() {
             loading="lazy"
           ></img>
         }
-        title1="Personal or Business, We Can Help"
-        par1="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum."
+        title1="Hey Tax Family!"
+        par1="It's Jacqueline from Baron Insurance  Agency & Taxation Consultant.
+I can't wait to see you in the coming new tax season! And see how we can get the bang for your buck.
+But if you're new to me, please read my bio! Looking forward to see my old clients and welcoming my new clients "
       />
       <BodyImageLeft
         image1={
           <div>
-            <img
-              src={crest}
-              className="imageBorder d-block mx-lg-auto img-fluid"
-              alt="Baron Family Crest"
-              width="300"
-              height="400"
-              loading="lazy"
-            ></img>
-            <p className="text-light"> Testimony PlaceHolder</p>
+            <p className="fst-italic fw-secondary">"I used to do my own taxes, but Jacqueline changed that for me.
+            I used to get about 300-400 back altogether, but since working with her i've gotten over 800$ each time!"</p>
+            <p className="text-light fst-italic"> -Maxwell Riesel, client since 2021</p>
           </div>
         }
         title="Fast Refunds, Guaranteed"
-        par1=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam
-            quam nulla porttitor massa id neque. Pellentesque adipiscing commodo
-            elit at. Vulputate odio ut enim blandit volutpat maecenas volutpat.
-            Leo a diam sollicitudin tempor id eu. Quam vulputate dignissim
-            suspendisse in est ante in nibh. Ut eu sem integer vitae. Nulla
-            facilisi morbi tempus iaculis urna id volutpat lacus. Ullamcorper
-            sit amet risus nullam eget felis eget. Turpis tincidunt id aliquet
-            risus feugiat in ante metus. Id velit ut tortor pretium. Quam
-            pellentesque nec nam aliquam sem et tortor consequat. Purus ut
-            faucibus pulvinar elementum. Metus aliquam eleifend mi in. Sed felis
-            eget velit aliquet sagittis. Rhoncus mattis rhoncus urna neque
-            viverra justo nec ultrices dui. Proin sagittis nisl rhoncus mattis
-            rhoncus urna neque viverra justo. Vulputate dignissim suspendisse in
-            est. Aliquet nec ullamcorper sit amet risus. Id cursus metus aliquam
-            eleifend mi. Eget est lorem ipsum dolor sit amet."
-        par2="  Quis lectus nulla at volutpat diam ut. Nulla at volutpat diam ut
-            venenatis tellus. Elit ullamcorper dignissim cras tincidunt lobortis
-            feugiat vivamus. Fermentum et sollicitudin ac orci phasellus
-            egestas. Consectetur lorem donec massa sapien faucibus et molestie
-            ac feugiat. Tincidunt augue interdum velit euismod in pellentesque
-            massa placerat duis. Porttitor eget dolor morbi non arcu risus.
-            Ornare arcu odio ut sem nulla. Est lorem ipsum dolor sit amet
-            consectetur adipiscing elit pellentesque. Sollicitudin tempor id eu
-            nisl nunc mi ipsum faucibus vitae. Nascetur ridiculus mus mauris
-            vitae ultricies leo integer malesuada nunc. Urna id volutpat lacus
-            laoreet non curabitur. Diam maecenas ultricies mi eget mauris. Urna
-            id volutpat lacus laoreet non curabitur. Etiam erat velit
-            scelerisque in dictum. Egestas integer eget aliquet nibh praesent
-            tristique. Proin libero nunc consequat interdum."
+        par1=" We Strive for quick and efficient refunds, with the best customer service in the NY area. 
+        No matter how high or low your income is, we strive to make sure you get everything that you deserve. 
+        As times get harder and every dollar begins to matter more and more, let us take care of all of your needs and make sure you get as much back from your federal and state taxes as you can. 
+        Please go to our contacts page and make an appointment to see how we can help you today!"
+        par2="Think that a tax consultant isn't as helpful in 2023? Think again.
+         A tax professional often see refund increases of over 500$ over what they would normally receive. 
+         Even after costs for a tax professional, the additional savings that you make makes it worthwhile. 
+         Not to mention saving you both time and energy that could be better spent on yourself or your family. 
+         There are over 2,500 pages of tax law. Don't stress yourself out trying to get as much as possible from your refund, put your trust in someone who already knows all the codes.
+         put your trust in Baron Tax!"
       />{" "}
     </div>
   );

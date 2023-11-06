@@ -7,21 +7,12 @@ function AboutPage() {
   return (
     <div>
       <BodyTextCentered
-        heading="About Us"
-        bodyText="Hac habitasse platea dictumst vestibulum rhoncus est. Scelerisque
-          felis imperdiet proin fermentum leo vel orci porta. Risus commodo
-          viverra maecenas accumsan. Fringilla urna porttitor rhoncus dolor
-          purus non enim praesent elementum. Enim nunc faucibus a pellentesque.
-          Vestibulum lorem sed risus ultricies tristique nulla aliquet. Volutpat
-          consequat mauris nunc congue. Elit pellentesque habitant morbi
-          tristique senectus et netus et malesuada. Purus in massa tempor nec
-          feugiat nisl pretium fusce id. Auctor eu augue ut lectus arcu bibendum
-          at varius vel. Ultricies leo integer malesuada nunc vel risus commodo.
-          Nisi porta lorem mollis aliquam ut porttitor leo a diam. A lacus
-          vestibulum sed arcu non odio. Congue nisi vitae suscipit tellus. Neque
-          egestas congue quisque egestas diam in arcu cursus. Ornare quam
-          viverra orci sagittis. Arcu non sodales neque sodales. Gravida dictum
-          fusce ut placerat."
+        heading="About me"
+        bodyText="Hello, I am Jacqueline N. Baron, the CEO/Founder of Baron Insurance Agency and Tax Consultant. I've been doing  Individual taxation since 2004, and an Insurance Broker since 2021. I am licensed in a few states as a Life, Accident & Health Insurance Agent. I have expert knowledge in annuities and other Individual Retirement Arrangements which will provide you with a stream of income in retirement. I also can do Mortgage Insurance as well as Final Burials insurance. I set up College savings accounts for children like 529s.
+I also specialize in Medicare and Medicaid Government Insurance as well.  Just call me your ''Jack of all Trades''!
+
+Originally from NYC, I am a go-getter and will never say no to a challenge!  Please visit my site make an appointment meet my team and let's talk and see how we can help you.
+"
       />
       <BodyImageRight
         ImageRight={

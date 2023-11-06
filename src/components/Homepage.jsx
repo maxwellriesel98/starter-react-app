@@ -2,10 +2,11 @@ import React from "react";
 import MyCarousel from "./Carousel";
 import BodyImageRight from "./BodyImageRight";
 import BodyImageLeft from "./BodyImageLeft";
-import image1 from "../Stonks.jpg";
-import image2 from "../team.jpg";
-import image3 from "../teentrading.jpg";
-import crest from "../BaronCrest.png";
+import image1 from "../Family.jpeg";
+import image2 from "../NOLA.jpeg";
+import image3 from "../Jamie-Mom.jpeg";
+import image4 from "../PFP.jpeg"
+import crest from "../BaronCrest.jpeg";
 
 function HomePage() {
   return (
@@ -14,6 +15,7 @@ function HomePage() {
         image1={image1}
         image2={image2}
         image3={image3}
+        image4={image4}
         FirstSlideLabel="First Slide Label"
         SecondSlideLabel="Second Slide Label"
         ThirdSlideLabel="Third Slide Label"

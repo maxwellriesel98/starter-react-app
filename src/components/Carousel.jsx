@@ -28,6 +28,11 @@ function MyCarousel(props) {
         <ExampleCarouselImage image={props.image3} text="Third slide" />
       
       </Carousel.Item>
+
+      <Carousel.Item>
+        <ExampleCarouselImage image={props.image4} text="Third slide" />
+      
+      </Carousel.Item>
     </Carousel>
   );
 }

@@ -31,12 +31,12 @@ function HomePage() {
         title1="Hey Tax Family!"
         par1="It's Jacqueline from Baron Insurance  Agency & Taxation Consultant.
 I can't wait to see you in the coming new tax season! And see how we can get the bang for your buck.
-But if you're new to me, please read my bio! Looking forward to see my old clients and welcoming my new clients "
+But if you're new to me, please read my bio! Looking forward to see my old clients and welcoming my new clients! "
       />
       <BodyImageLeft
         image1={
           <div>
-            <p className="fst-italic fw-secondary">"I used to do my own taxes, but Jacqueline changed that for me.
+            <p className="linkbg linkBorder fst-italic fw-secondary">"I used to do my own taxes, but Jacqueline changed that for me.
             I used to get about 300-400 back altogether, but since working with her i've gotten over 800$ each time!"</p>
             <p className="text-light fst-italic"> -Maxwell Riesel, client since 2021</p>
           </div>

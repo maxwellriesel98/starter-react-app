@@ -34,13 +34,8 @@ function ContactPage() {
           </h2>
           <br></br>
           <p className="text-light lead">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            We are here for all your needs. Please fill out this form and leave as much detail as you can so I can help you to the best of my ability.
+            We will get back to you as soon as we can. Thank you for choosing Baron Insurance Agency and Tax Consultant for all of your financial needs!
           </p>
           
         </div>

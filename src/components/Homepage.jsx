@@ -16,9 +16,6 @@ function HomePage() {
         image2={image2}
         image3={image3}
         image4={image4}
-        FirstSlideLabel="First Slide Label"
-        SecondSlideLabel="Second Slide Label"
-        ThirdSlideLabel="Third Slide Label"
       />
       <BodyImageRight
         ImageRight={

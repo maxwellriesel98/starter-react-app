@@ -17,20 +17,20 @@ function MyCarousel(props) {
       onSelect={handleSelect}
     >
       <Carousel.Item>
-        <ExampleCarouselImage image={props.image1} text="First slide" />
+        <ExampleCarouselImage className="img-fluid" image={props.image1} text="First slide" />
         
       </Carousel.Item>
       <Carousel.Item>
-        <ExampleCarouselImage image={props.image2} text="Second slide" />
+        <ExampleCarouselImage className="img-fluid" image={props.image2} text="Second slide" />
        
       </Carousel.Item>
       <Carousel.Item>
-        <ExampleCarouselImage image={props.image3} text="Third slide" />
+        <ExampleCarouselImage className="img-fluid" image={props.image3} text="Third slide" />
       
       </Carousel.Item>
 
       <Carousel.Item>
-        <ExampleCarouselImage image={props.image4} text="Third slide" />
+        <ExampleCarouselImage className="img-fluid" image={props.image4} text="Third slide" />
       
       </Carousel.Item>
     </Carousel>

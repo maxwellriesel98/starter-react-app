@@ -36,7 +36,7 @@ But if you're new to me, please read my bio! Looking forward to see my old clien
       <BodyImageLeft
         image1={
           <div className="linkbg linkBorder container">
-            <p className="fst-italic fw-secondary">"I used to do my own taxes, but Jacqueline changed that for me.
+            <p className="mt-3 fst-italic fw-secondary">"I used to do my own taxes, but Jacqueline changed that for me.
             I used to get about 300-400 back altogether, but since working with her i've gotten over 800$ each time!"</p>
             <p className="text-light fst-italic"> -Maxwell Riesel, client since 2021</p>
           </div>

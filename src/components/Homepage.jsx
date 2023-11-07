@@ -2,9 +2,9 @@ import React from "react";
 import MyCarousel from "./Carousel";
 import BodyImageRight from "./BodyImageRight";
 import BodyImageLeft from "./BodyImageLeft";
-import image1 from "../Family.jpeg";
+import image1 from "../Family.jpg";
 import image2 from "../NOLA.jpeg";
-import image3 from "../Jamie-Mom.jpeg";
+import image3 from "../Jamie-Mom.jpg";
 import image4 from "../PFP.jpeg"
 import crest from "../BaronCrest.jpeg";
 

@@ -2,10 +2,10 @@ import React from "react";
 import MyCarousel from "./Carousel";
 import BodyImageRight from "./BodyImageRight";
 import BodyImageLeft from "./BodyImageLeft";
-import image1 from "../Family.jpg";
-import image2 from "../NOLA.jpeg";
-import image3 from "../Jamie-Mom.jpg";
-import image4 from "../PFP.jpeg"
+import image1 from "../images/Family.jpg";
+import image2 from "../images/black guy taxes.jpg";
+import image3 from "../images/Jamie-Mom.jpeg";
+import image4 from "../images/PFP.JPG"
 import crest from "../BaronCrest.jpeg";
 
 function HomePage() {

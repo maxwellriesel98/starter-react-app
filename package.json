@@ -34,8 +34,7 @@
     "node": "^21.2.0",
     "npm": "^10.2.4",
     "react-bootstrap": "^2.9.0",
-    "react-router-dom": "^6.16.0",
-    "watchman": "^1.0.0"
+    "react-router-dom": "^6.16.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.2",

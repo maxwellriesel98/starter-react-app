@@ -30,7 +30,7 @@ function MyCarousel(props) {
       </Carousel.Item>
 
       <Carousel.Item>
-        <ExampleCarouselImage image={props.image4} text="Fourth slide" />
+        <ExampleCarouselImage image={props.image4} text="Third slide" />
       
       </Carousel.Item>
    

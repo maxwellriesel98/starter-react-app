@@ -2,10 +2,12 @@ import React from "react";
 import MyCarousel from "./Carousel";
 import BodyImageRight from "./BodyImageRight";
 import BodyImageLeft from "./BodyImageLeft";
-import image1 from "../Family.jpg";
-import image2 from "../NOLA.jpeg";
-import image3 from "../Jamie-Mom.jpg";
-import image4 from "../PFP.jpeg"
+import image1 from "../authEfile.jpg"
+import image2 from "../black guy taxes.jpg";
+import image3 from "../taxcredit.jpg";
+import image4 from "../PFP.JPG"
+import image5 from "../Family.jpg";
+import image6 from "../Vehicle tax.jpg"
 import crest from "../BaronCrest.jpeg";
 
 function HomePage() {
@@ -16,6 +18,8 @@ function HomePage() {
         image2={image2}
         image3={image3}
         image4={image4}
+        image5={image5}
+        image6={image6}
       />
       <BodyImageRight
         ImageRight={

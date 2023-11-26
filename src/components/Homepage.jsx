@@ -18,8 +18,7 @@ function HomePage() {
         image2={image2}
         image3={image3}
         image4={image4}
-        image5={image5}
-        image6={image6}
+
       />
       <BodyImageRight
         ImageRight={
